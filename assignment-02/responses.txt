@@ -4,5 +4,10 @@ Directorys act as the storage unit for files, just like folders do on your Deskt
 
 How are VCS useful?
 A VCS is a great way to manage, review and update files within a directory. In order to be organzied and up to date with all past changes and edit to a file, a VCS
-gives an entire team the capability to review files that have been updated or changed. A VCS stores all changes and also allows for developers to revert back 
+gives an entire team the capability to review files that have been updated or changed. A VCS stores all changes and also allows for developers to revert back
+to past versions in case there is an issue with a deployment of the code.
+
 Do you have a favorite artistic medium? Why is it your favorite?
+Before I got into graphic and UI design, my first love was photography. I absolutely love working with film and I miss it quite a bit. While most of my work has gon
+completely digital, I still would like to continue working with film as there is something incredibly technical, delicate and almost intimate about it. I found
+as a photographer that my film work was always better because of my intention versus when I use a digital camera. 
