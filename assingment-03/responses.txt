@@ -1,0 +1,8 @@
+What is the relationship between an IP address and the DNS?
+An IP address, or Internet Protocol Address, is the local address of any computer and the DNS is the Domain Name System. The realtionship between the two is that when you use your computer to find a website, your computer sends out the request for the site address and the DNS finds the correct IP address for that domain name. DNS is almost like the translator for IP addresses.
+
+What is a cookie?
+A cookie is a file stored on your local computer to help sites identify you. For example, if you have an account with a site and you login, the site will cookie your IP address so that it recognizes you in the future.
+
+What are the three essential parts of a URL?
+A protocol, a domain and a path.
