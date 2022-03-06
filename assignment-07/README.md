@@ -1,0 +1,3 @@
+I have built many forms for the site that I manage personally and when we create forms, it's really only for one purpose: adding users or potential customers to the marketing funnel. Forms are a great way to capture information about a user without having them leave your site like with a mailto link or external form collection application. The other main types of forms I come across are for payment processing like entering your shipping and billing information as well as interactive sales content by using a form to have users bring you specific recommendations like skincare bundles.
+
+![Screenshot of Assignment 7](images/screenshot-7.png)
