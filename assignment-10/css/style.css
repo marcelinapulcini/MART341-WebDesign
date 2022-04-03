@@ -1,0 +1,37 @@
+* {
+  font-family: sans-serif;
+}
+
+nav{
+  width: auto;
+  text-align: center;
+  }
+s
+a{
+  color: #2A3740;
+  font-size: 24px;
+  padding: 24px;
+  }
+
+.introduction{
+  text-align: center;
+  font-size: 64px;
+  padding: 32px;
+  background-color: #2A3740;
+  color: #FFF2E9;
+  }
+
+#portfolio_items {
+  border: black;
+  border-radius: 2px;
+  margin: 24px;
+  padding: 72px;
+  width: 33%;
+  text-align: center;
+  background-color: #2A3740;
+  color: #FFF2E9;
+  }
+
+#link {
+  color: #DBA982;
+}
