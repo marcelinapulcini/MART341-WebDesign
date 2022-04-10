@@ -1,0 +1,49 @@
+nav{
+  width: auto;
+  text-align: center;
+  }
+
+a{
+  color: #2A3740;
+  font-family: Montserrat; sans-serif
+  font-size: 24px;
+  padding: 24px;
+  }
+
+a:hover {
+  font-weight: 500;
+}
+
+
+.introduction{
+  text-align: center;
+  font-size: 64px;
+  font-family: Montserrat; sans-serif;
+  padding: 32px;
+  background-color: #2A3740;
+  color: #FFF2E9;
+  }
+
+.portfolio_items {
+  font-family: Montserrat;
+  font-weight: 500;
+  border: black;
+  border-radius: 2px;
+  margin: 24px;
+  padding: 72px;
+  width: 33%;
+  text-align: center;
+  background-color: #2A3740;
+  color: #FFF2E9;
+  }
+
+  .portfolio_items:hover {
+    font-family: Montserrat;
+    font-style: italic;
+    color: black;
+    background-color: #FFF2E9;
+  }
+
+  #link {
+    color: #DBA982;
+  }
