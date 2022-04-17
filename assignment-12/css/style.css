@@ -1,0 +1,139 @@
+
+header {
+    background-color: #ffffff;
+    margin: 8px;
+    padding: 8px;
+    text-align: right;
+    vertical-align: middle;
+}
+
+.menu-item {
+    display: inline-block;
+    margin: 0 0;
+    min-width: 8em;
+    text-align: center;
+    padding-top: 16px;
+    padding-bottom: 16px;
+  }
+
+/* Link Style */
+.menu-item a {
+    color: #2A3740;
+    font-family: Montserrat;
+    font-style: normal;
+    font-size: 16px;
+    padding: 24px;
+  }
+.menu-item:hover {
+    background-color: #2A3740;
+  }
+
+.menu-item a:hover {
+    color: #FFF2E9;
+    font-style: italic;
+  }
+
+/* Dropdown feature: */
+.dropdown {
+    display: inline-block;
+}
+
+.menu-item-dropdown{
+  display: inline-block;
+  margin: 0 0;
+  min-width: 8em;
+  text-align: center;
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+
+.menu-item-dropdown a {
+    color: #2A3740;
+    font-family: Montserrat;
+    font-style: normal;
+    font-size: 16px;
+    padding: 24px;
+  }
+
+.menu-item-dropdown:hover{
+  background-color: #2A3740;
+}
+
+.menu-item-dropdown a:hover {
+    color: #FFF2E9;
+    font-style: italic;
+  }
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    border: 1px solid #333333;
+    margin: 0;
+    margin-top: 4px;
+    color: #2A3740;
+    background-color: #fff;
+    z-index: 1;
+}
+.dropdown-content a {
+    z-index: 1
+    color: #2A3740;
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown-item {
+    color: #2A3740;
+    font-family: Montserrat;
+    font-style: normal;
+    font-size: 16px;
+    padding: 16px;
+    text-align: left;
+}
+.dropdown-item:hover {
+    background-color: #2A3740;
+}
+
+.dropdown-item a:hover {
+    color: #FFF2E9;
+    font-style: italic;
+}
+
+
+.introduction{
+  z-index: -2;
+  text-align: center;
+  font-size: 64px;
+  font-family: Montserrat; sans-serif;
+  background-color: #2A3740;
+  color: #FFF2E9;
+  width: auto;
+  height: 64px;
+  border: 2px;
+  padding: 32px;
+  margin: 32px;
+  }
+
+.portfolio_items {
+  font-family: Montserrat;
+  font-weight: 500;
+  border: black;
+  border-radius: 2px;
+  margin: 24px;
+  padding: 72px;
+  width: 33%;
+  text-align: center;
+  background-color: #2A3740;
+  color: #FFF2E9;
+  }
+
+  .portfolio_items:hover {
+    font-family: Montserrat;
+    font-style: italic;
+    color: black;
+    background-color: #FFF2E9;
+  }
+
+  #link {
+    color: #DBA982;
+  }
